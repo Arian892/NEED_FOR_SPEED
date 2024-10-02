@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1677649377 source:e:\project\new project\demo project\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<string.h>
+	<iostream>
+
+1676478230 e:\project\new project\demo project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+	"stb_image.h"
+
+1676478230 e:\project\new project\demo project\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1677649377 source:e:\project\new project\need for speed\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<string.h>
+	<iostream>
+
+1676478230 e:\project\new project\need for speed\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+	"stb_image.h"
+
+1676478230 e:\project\new project\need for speed\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
